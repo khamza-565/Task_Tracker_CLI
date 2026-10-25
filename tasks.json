@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Покушать еще раз",
+        "status": "in-progress",
+        "createdAt": "25-10-2026 23:54:33",
+        "updatedAt": "25-10-2026 23:55:25"
+    },
+    {
+        "id": 2,
+        "description": "Магомед 1",
+        "status": "done",
+        "createdAt": "25-10-2026 23:55:11",
+        "updatedAt": "26-10-2026 00:16:49"
+    },
+    {
+        "id": 3,
+        "description": "Магомед 2",
+        "status": "to-do",
+        "createdAt": "25-10-2026 23:55:17",
+        "updatedAt": "25-10-2026 23:55:17"
+    }
+]
